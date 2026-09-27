@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+sim_hifal/*.png
+sim_hifal/*.gif
+sim_hifal/*.mp4
+sim_hifal/*.txt
+.grok/
+.previewdocs/
